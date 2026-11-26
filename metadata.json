@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Global financial markets overview featuring interactive index charts, stock market movers, sector heatmaps, crypto, forex, futures, bonds, ETFs, and macro calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
